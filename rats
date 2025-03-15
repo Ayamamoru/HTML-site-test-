@@ -1,0 +1,32 @@
+<head> <h1> ALL ABOUT RATS
+  <h1 style="border:2px solid blue;">Bet you don't know about rats</h1>
+
+  <body> 
+    <h1> Rats are rats
+      
+      <a href = "http://www.ratfanclub.org" target=
+           "_blank"> Rat webs<a/>
+      <div class = "container">
+        <h4> Join the rats <h4>
+      
+          <h5> rats
+      <p> hey are you ready to join the rats
+       <h1> JOIN THE RATS
+        
+        .container {
+  color: crimson;
+  text-align: center;
+  font-size: 200px;
+}
+
+body {
+  background-color: tomato ;
+}
+
+a{
+  color: red;
+  font-size: 40px;
+}
+p{
+  font-size: 30px;
+}
